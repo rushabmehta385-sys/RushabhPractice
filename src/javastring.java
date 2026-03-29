@@ -49,7 +49,7 @@ public class javastring {
 				String s7 = s.concat("");        // New heap object
 
 				System.out.println(System.identityHashCode(s));
-
+      //New commit
 				System.out.println(System.identityHashCode(s2));
 				System.out.println(System.identityHashCode(s3));
 				System.out.println(System.identityHashCode(s4));
